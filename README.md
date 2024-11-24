@@ -1,5 +1,7 @@
 # TINKLE-SINGH-BINDRA-Student-Number-300401003-CSIS-1280-004-Personal-Project-Portfolio
 
+TINKLE-SINGH-BINDRA-Student-Number-300401003-CSIS-1280-004-Personal-Project-Portfolio
+
 ![HomePage](https://github.com/user-attachments/assets/8957acb3-b12c-4d0a-a19d-19a575daf87a)
 
 ![SkillsPage](https://github.com/user-attachments/assets/2305dde8-d0d1-486c-afb1-f3848382a1af)
