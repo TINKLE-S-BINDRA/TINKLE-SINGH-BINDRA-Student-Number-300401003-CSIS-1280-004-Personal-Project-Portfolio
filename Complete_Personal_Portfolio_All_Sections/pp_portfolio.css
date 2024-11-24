@@ -1,0 +1,44 @@
+/* Styles for screens smaller than or equal to 400px wide */
+
+body {
+   min-width: 140px;
+
+}
+
+section#main {
+   display: flex;
+   flex-wrap: wrap;
+   width: 90%;
+   justify-content: center;
+   margin: auto;
+}
+
+img {
+   display: flex;
+   max-width: 250px;
+   /* min-width: 200px; */
+   flex-basis: 250px;
+   flex-grow: 1;
+   flex-shrink: 1;
+   padding: 1%;
+   border: 1px solid #ffffff;
+}
+#header_title {
+   text-align: center;
+   font-size: 2em;
+   color: white;
+   text-shadow: 5px 5px 5px black;
+   padding: 50px 10px;
+   background-image: url(HeaderImage.avif);
+   background-size: cover;
+}
+@media (min-width: 901px) {}
+nav.horizontalNavigation a {
+   background-color: lawngreen;
+}
+nav.horizontalNavigation a:link, nav.horizontalNavigation a:visited {
+   color: black;
+}
+body {
+   background-color: lawngreen;
+}
